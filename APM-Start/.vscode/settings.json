@@ -1,4 +1,14 @@
 {
   "files.autoSave": "afterDelay",
-  "html.format.wrapAttributes": "force-aligned"
+  "html.format.wrapAttributes": "force-aligned",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#25eeec",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#f04ef1",
+    "activityBarBadge.foreground": "#15202b",
+    "statusBar.background": "#10d0ce",
+    "statusBarItem.hoverBackground": "#0ca19f",
+    "statusBar.foreground": "#15202b"
+  }
 }
